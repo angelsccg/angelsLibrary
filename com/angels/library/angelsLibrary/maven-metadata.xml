@@ -3,7 +3,7 @@
   <groupId>com.angels.library</groupId>
   <artifactId>angelsLibrary</artifactId>
   <versioning>
-    <release>0.6.2</release>
+    <release>0.6.3</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -74,7 +74,8 @@
       <version>0.5.9</version>
       <version>0.6.0</version>
       <version>0.6.2</version>
+      <version>0.6.3</version>
     </versions>
-    <lastUpdated>20191127032907</lastUpdated>
+    <lastUpdated>20191127034508</lastUpdated>
   </versioning>
 </metadata>
